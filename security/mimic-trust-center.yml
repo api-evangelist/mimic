@@ -1,0 +1,36 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://mimic.com/technical-and-organizational-measures
+url: https://mimic.com/technical-and-organizational-measures
+trust_portal: none
+notes: >-
+  Mimic does not operate a dedicated trust portal (no trust.mimic.com /
+  security.mimic.com). Compliance posture is published across the company's
+  legal/compliance pages and a FedRAMP Ready marketplace listing. Certifications
+  below reflect the company's own published claims; SOC 1 & 2, GDPR and IL4/IL5
+  are stated as alignment, and FedRAMP is Ready status (readiness, not full ATO).
+certifications:
+- FedRAMP Ready
+- SOC 1
+- SOC 2
+- GDPR
+- IL4
+- IL5
+compliance_pages:
+- url: https://mimic.com/technical-and-organizational-measures
+  label: Technical and Organizational Measures
+- url: https://mimic.com/subprocessors
+  label: Subprocessors
+- url: https://mimic.com/privacy-notice
+  label: Privacy Notice
+evidence:
+- source: https://www.prnewswire.com/news-releases/mimic-secures-fedramp-ready-status-bringing-real-time-ransomware-defense-to-federal-agencies-302538916.html
+  date: '2025-08-26'
+  quote: 'Mimic is aligned with GDPR, SOC 1 & 2, IL 4 & 5, and now FedRAMP standards.'
+  keywords:
+  - fedramp ready
+  - soc 2
+  - gdpr
+- source: https://mimic.com/technical-and-organizational-measures
+  kind: compliance-page
