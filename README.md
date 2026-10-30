@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mimic is a company surfaced as a portfolio company of gv, menlo-ventures, speedinvest, wing-venture-capital and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+Mimic is an enterprise cybersecurity company building ransomware and AI-threat defense based on "Known-Good Enforcement" at the kernel level. Its SaaS platform models a system's authorized state and blocks unauthorized modifications, detecting ransomware in fractions of a second to deflect attacks before they can encrypt data or damage infrastructure, and providing rapid-recovery technology that restores in seconds-to-minutes rather than days. Product lines include Ransomware Defense, AI Shield (Guard/Patch/Trace) and Agentic AI Governance. Founded in 2023 and headquartered in Palo Alto, California, Mimic raised a $27M seed and a $50M Series A led by GV (Google Ventures) and Menlo Ventures, with Ballistic Ventures, Team8, Wing Venture Capital and Shield Capital participating; former Mandiant CEO Kevin Mandia joined its board. The platform is enterprise/government-facing (sold via demo, no public developer API) and is aligned with GDPR, SOC 1 & 2, IL4/IL5 and holds FedRAMP Ready status. Added to the API Evangelist network as a VC-portfolio lead.
 
-Backed by: gv, menlo-ventures, speedinvest, wing-venture-capital — https://mimic.com
+**Areas:** Company · Enterprise · Cybersecurity · Ransomware Defense · Endpoint Security · Threat Detection · AI Security · Software-as-a-Service
+
+## Mimic on APIs.io
+
+Everything profiled for Mimic is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mimic/](https://apis.io/providers/mimic/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mimic Domain Security](https://apis.io/security/mimic/mimic-domain-security/)
+- [Mimic Trust Center](https://apis.io/security/mimic/mimic-trust-center/)
+- [Mimic Vulnerability Disclosure](https://apis.io/security/mimic/mimic-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mimic.com)
+- [Blog](https://mimic.com/blog)
+- [Security](https://mimic.com/vulnerability-disclosure-policy)
+- [Compliance](https://mimic.com/technical-and-organizational-measures)
+- [Terms of service](https://mimic.com/terms-of-use)
+- [Privacy policy](https://mimic.com/privacy-notice)
+
+## API Evangelist rating
+
+**Kin Score 16.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 43.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mimic/](https://apis.io/providers/mimic/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mimic: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mimic/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
